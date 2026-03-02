@@ -1,0 +1,15 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Local backups and temporary files
+*.bak-*
+win-home-backup-*/
+
+# Optional editor files
+.vscode/
+.idea/
